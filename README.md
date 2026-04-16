@@ -233,6 +233,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Josh-XT/AGiXT">github</a> | <a href="https://agixt.com/">website</a></p>
 </div>
 
+### AGX
+<div><a href="https://github.com/anthropics/agx"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/anthropics/agx"><img src="https://img.shields.io/github/stars/anthropics/agx?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>AGX is a local-first agent orchestrator for coding that runs Claude Code, Codex, Gemini CLI, and Ollama in parallel with a wake-work-sleep lifecycle, worktree isolation, and human-in-the-loop gates before irreversible actions</p>
+
+<p><a href="https://github.com/anthropics/agx">github</a> | <a href="https://runagx.com">website</a></p>
+</div>
+
 ### AI Agent Assist by DialPad
 <div><a href="https://www.dialpad.com/ai-labs/ai-agent-assist/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
